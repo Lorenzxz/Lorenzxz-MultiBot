@@ -1,7 +1,7 @@
-## the second project
-Hi guys, this is my first project, please forgive me if there are any mistakes, guys✨, this script was created since Thursday, October 17, 2024. Don't forget to give stars and follow me😄🐈‍⬛
+## The second project
+Hi guys, this is my first project, please forgive me if there are any mistakes, guys✨, this script was created since Thursday, November 17, 2024. Don't forget to give stars and follow me😄🐈‍⬛
 
-## how to connect with telegram bot
+## How to connect with telegram bot
 ## [ 🇮🇩 ] Berikut langkah-langkah untuk mendapatkan token bot Telegram & Discord:
 
 ## Telegram
@@ -18,10 +18,16 @@ Hi guys, this is my first project, please forgive me if there are any mistakes, 
 7. Simpan token ini, karena token ini yang akan kamu gunakan untuk mengontrol bot melalui API Telegram.
 
 ## Discord
-1. **Buka website Discord Developer Portal**, lalu kamu buat application baru.
-2. Pada Application baru, kamu klik garis tiga lalu tekan `Bots`
-3. Setelah itu kamu reset token 
-4. Simpan token di config.js
+1. Buka Discord Developer Portal.
+2. Setelah itu, buat aplikasi baru dengan mengklik New Application.
+3. Beri nama aplikasi kamu dan konfirmasi dengan mengklik Create.
+4. Setelah aplikasi dibuat, buka menu dengan mengklik tiga garis horizontal di kiri atas.
+5. Dari menu, pilih Bot dan klik Add Bot untuk membuat bot untuk aplikasi kamu.
+6. Konfirmasi pembuatan bot dengan memilih Yes, do it!.
+7. Setelah bot dibuat, kamu akan melihat opsi Reset Token. Klik untuk menghasilkan token baru untuk bot kamu.
+8. Salin token bot ini dan simpan dengan aman, karena token ini akan memberikan akses ke bot kamu.
+9. Buka file konfigurasi bot kamu (config.js).
+10. Tempelkan token yang telah disalin ke dalam field yang sesuai di config.js untuk menghubungkan bot kamu dengan aplikasi.
 
 ## [ 🇺🇸 ] Here are the steps to get a Telegram & Discord bot token:
 
@@ -39,10 +45,16 @@ Hi guys, this is my first project, please forgive me if there are any mistakes, 
 7. Save this token, as you will use it to control the bot through the Telegram API.
 
 ## Discord
-1. **Open the Discord Developer Portal website**, then you create a new application.
-2. In the new application, you click the three lines then press `Bots`
-3. After that you reset the token
-4. Save token in config.js
+1. Go to the Discord Developer Portal.
+2. Once you're there, create a new application by clicking New Application.
+3. Give your application a name and confirm by clicking Create.
+4. After creating the application, open the menu by clicking the three horizontal lines at the top left.
+5. From the menu, select Bot and then click Add Bot to create a bot user for your application.
+6. Confirm the creation of the bot by selecting Yes, do it!.
+7. Once the bot is created, you'll see a Reset Token option. Click it to generate a new token for your bot.
+8. Copy this bot token and keep it secure, as it will give access to your bot.
+9. Open your bot’s configuration file (config.js).
+10. Paste the copied token into the appropriate field within config.js to connect your bot to your application.
 
 ## Thank you to those who have helped me ✨
 
