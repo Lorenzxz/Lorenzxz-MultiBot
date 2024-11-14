@@ -1,5 +1,5 @@
 ## The second project
-Hi guys, this is my first project, please forgive me if there are any mistakes, guys✨, this script was created since Thursday, November 17, 2024. Don't forget to give stars and follow me😄🐈‍⬛
+Hi guys, this is my first project, please forgive me if there are any mistakes, guys✨, this script was created since Thursday, November 14, 2024. Don't forget to give stars and follow me😄🐈‍⬛
 
 ## How to connect with telegram bot
 ## [ 🇮🇩 ] Berikut langkah-langkah untuk mendapatkan token bot Telegram & Discord:
